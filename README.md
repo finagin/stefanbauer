@@ -1,4 +1,4 @@
-### Hi nerds!
+### Hi nerds 👋
 
 My name is Stefan Bauer. You'll find me on Twitter at [@stefanbauerme](https://twitter.com/stefanbauerme). I'm a full-stack developer, entrepreneur, UI/UX enthusiast and bacon-lover. I live in Germany near Munich and I love PHP and awesome design. I am a big fan of Laravel, VueJS, InertiaJS and TailwindCSS - in short the LIT stack from the early stage.
 
