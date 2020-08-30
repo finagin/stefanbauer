@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/stefanbauerme?style=for-the-badge)
 
-<a href="https://github.com/stefanbauer"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=stefanbauer&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/stefanbauer"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=stefanbauer&show_icons=true&count_private=true&include_all_commits=true" align="right" height="150" /></a>
 
 My name is Stefan Bauer. You'll find me on Twitter at [@stefanbauerme](https://twitter.com/stefanbauerme). I'm a full-stack developer, entrepreneur, UI/UX enthusiast and bacon-lover. I live in Germany near Munich and I love PHP and awesome design. I am a big fan of Laravel, VueJS, InertiaJS and TailwindCSS - in short the LIT stack from the early stage.
 
